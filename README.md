@@ -86,6 +86,8 @@ Meu foco não é só treinar modelos — é fazer eles funcionarem onde importa:
 
 > “Benchmark não salva paciente.”
 
+> "Medicina é a ciência da incerteza e a arte da probabilidade" (@emergencinsta)
+
 ---
 
 ## 💌 Nota pessoal (importante mesmo)
