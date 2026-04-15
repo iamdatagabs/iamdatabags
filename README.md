@@ -72,7 +72,7 @@ Meu foco não é só treinar modelos — é fazer eles funcionarem onde importa:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamdatagbs&show_icons=true&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamdatagabs&show_icons=true&cache_seconds=1800)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamdatagabs&layout=compact&theme=tokyonight)
 
