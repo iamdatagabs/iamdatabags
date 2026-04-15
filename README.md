@@ -6,8 +6,8 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=gabrielpassos&color=blue)
-![GitHub followers](https://img.shields.io/github/followers/gabrielpassos?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=iamdatagabs&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/iamdatagabs?style=social)
 ![Status](https://img.shields.io/badge/status-curious%20about%20everything-brightgreen)
 
 </div>
@@ -20,9 +20,9 @@ Sou brasileiro (nascido em Sorocaba-SP, mais especificamente), pesquisador em IA
 
 Tenho:
 - 26 anos (sim, nasci em 2000)
-- dedos levemente “criativos” 🫠
+- Dedos levemente “criativos” 🫠
 - Flamengo no coração 🟥⬛ (graças a uma certa pessoa e coincidências da vida)
-- e um sistema movido a suco de maçã 🍎 (não é metáfora)
+- E um sistema movido a suco de maçã 🍎 (não é metáfora)
 
 Meu foco não é só treinar modelos — é fazer eles funcionarem onde importa: **hospital, clínica e decisões reais de saúde**.
 
